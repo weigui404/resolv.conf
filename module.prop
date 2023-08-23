@@ -4,3 +4,4 @@ version=v1.0
 versionCode=100
 author=未归
 description=修改/system/etc/resolv.conf
+updateJson=https://raw.githubusercontent.com/weigui404/resolv-update/main/update.json
