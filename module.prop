@@ -1,0 +1,6 @@
+id=etc
+name=修改etc
+version=v1.0
+versionCode=100
+author=未归
+description=修改/system/etc/resolv.conf
