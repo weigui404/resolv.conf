@@ -1,5 +1,5 @@
 # 关于
-本模块的初衷是为了在`Termux`运行[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)而不使用`proot`容器\
+本模块是为了在`Termux`运行[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)而不使用`proot`容器\
 其他golang项目也同样适用
 # 关于
 通过`Magisk`在`/etc`文件夹新建`resolv.conf`文件，从而不使用`proot`解决`Termux`运行`golang`程序时的DNS问题。
